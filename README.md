@@ -5,7 +5,7 @@
 
 🎓 Computer Science student at the University of Exeter (2024–2028)
 
-💡 Passionate about **software development, machine learning, and shareing my knowledge**
+💡 Passionate about **software development, machine learning, and sharing knowledge**
 
 📈 On track for a **First-Class degree**
 
